@@ -16,7 +16,7 @@ function Post() {
         comment_count: 11
     }
     const posts2 = {
-        upvote: "20",
+        upvote: 20,
         image: "https://icdn.isrgrajan.com/in/2022/11/Virat-Kohli.jpg",
         title: "Virat Kohli always plays amazingly.",
         user: "theindependentonline",
